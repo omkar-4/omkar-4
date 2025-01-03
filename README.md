@@ -1,4 +1,4 @@
-<h3 align="left">Hi! I'm Omkar.<br>Self-taught Designer & Creative Developer.</h3>
+<h3 align="left">Hi! I'm Omkar.<br>Self-learned Designer & Creative Developer.</h3>
 
 ###
 
