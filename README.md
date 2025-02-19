@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Undergrad Sophomore <br>🧑‍💻 TS / JS / Rust / MERN / Python<br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion<br>🍧 Figma / FigJam / Ps / Pr / Ae / Spline / Dora / Project Neo / TouchDesigner<br>🧠 Notion / Obsidian / Whimsical<br>💻 Windows 11 / Fedora Linux<br>🤝 Let's connect at Discussions!</p>
+<p align="left">🎓 Undergrad Sophomore <br>🧑‍💻 TS / JS / Rust / MERN / Python<br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion<br>🍧 Figma / FigJam / Adobe Suite / Spline / Dora / Project Neo / TouchDesigner<br>🧠 Notion / Obsidian / Whimsical<br>💻 Windows 11 / Fedora Linux<br>🤝 Let's connect at Discussions!</p>
 
 ###
 
