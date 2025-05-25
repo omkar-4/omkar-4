@@ -46,26 +46,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://discordapp.com/users/837398422980919397" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=F84743&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omkariyer4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=F84743&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/omkariyer4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=F84743&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@omkar-4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=F84743&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="medium logo"  />
-  </a>
-  <a href="https://instagram.com/omkar_04.0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F84743&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/136555960?v=4"  />
 
 ###
