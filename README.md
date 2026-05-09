@@ -44,12 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/136555960?v=4"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/omkar-4/omkar-4/output/snake.svg" alt="Snake animation" />
