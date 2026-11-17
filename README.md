@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Undergrad Final Year (Robotics & Automation) <br>🧑‍💻 TS / JS / Rust / MERN / Python <br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion <br> 🤖 I do all 3 : Manual, AI-assisted & Fully Agentic Dev <br>🍧 Figma / FigJam / Adobe Suite <br>🧠 Obsidian <br>💻 Windows / Also I use Arch btw! with custom-riced hyprland <br>🤝 We can connect through Socials & Emails!</p>
+<p align="left">🎓 Undergrad Final Year <br>🧑‍💻 TS / JS / Rust / MERN / Python <br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion <br> 🤖 I do all 3 : Manual, AI-assisted & Fully Agentic Dev <br>🍧 Figma / FigJam / Adobe Suite <br>🧠 Obsidian <br>💻 Windows / Also I use Arch btw! with custom-riced hyprland <br>🤝 We can connect through Socials & Emails!</p>
 
 ###
 
