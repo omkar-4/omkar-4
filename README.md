@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Undergrad Final Year <br>🧑‍💻 TS / JS / Rust / MERN / Python<br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion<br>🍧 Figma / FigJam / Adobe Suite / Spline / Dora / Project Neo / TouchDesigner<br>🧠 Notion / Obsidian / Whimsical<br>💻 Windows 11 / Arch Linux<br>🤝 Let's connect at Discussions!</p>
+<p align="left">🎓 Undergrad Final Year <br>🧑‍💻 TS / JS / Rust / MERN / Python<br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion<br>🍧 Figma / FigJam / Adobe Suite <br>🧠 Obsidian <br>💻 Windows / Also I use Arch btw! with custom-riced hyprland <br>🤝 We can connect through Socials & Emails!</p>
 
 ###
 
