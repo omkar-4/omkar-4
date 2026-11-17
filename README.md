@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Undergrad Final Year <br>🧑‍💻 TS / JS / Rust / MERN / Python <br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion <br> 🤖 I do all 3 : Manual, AI-assisted & Fully Agentic Dev <br>🍧 Figma / FigJam / Adobe Suite <br>🧠 Obsidian <br>💻 Windows / Also I use Arch btw! with custom-riced hyprland <br>🤝 We can connect through Socials & Emails!</p>
+<p align="left">🎓 Undergrad Final Year <br>🧑‍💻 TS / JS / Rust / MERN / Python <br>👻 GSAP / Lenis / ThreeJs / WebGL / Framer motion <br> 🤖 I do all 3 : Manual, AI-assisted & Fully Agentic Dev <br>🍧 Figma / FigJam / Adobe Suite <br>🧠 Obsidian / Notion <br>💻 Windows / Also I use Arch btw! with custom-riced hyprland <br>🤝 We can connect through Socials & Emails!</p>
 
 ###
 
@@ -33,15 +33,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zed/default.svg" height="30" alt="zed logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/notion/default.svg" height="30" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/obsidian/default.svg" height="30" alt="obsidian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
 </div>
 
 <br clear="both">
